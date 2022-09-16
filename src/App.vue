@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h2>Exercícios de VueJS</h2>
+    <h2>Exercícios de VueJS Origamid</h2>
     <router-view />
   </div>
 </template>

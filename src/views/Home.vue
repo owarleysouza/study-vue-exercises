@@ -7,6 +7,9 @@
       <li>
         <router-link to="/exercise-02">Exercício 02</router-link>
       </li>
+      <li>
+        <router-link to="/exercise-03">Exercício 03</router-link>
+      </li>
     </ul>
   </div>
 </template>
