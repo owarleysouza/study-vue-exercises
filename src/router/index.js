@@ -25,6 +25,11 @@ const routes = [
     name: "Exercise03",
     component: () => import("../views/Exercise03.vue"),
   },
+  {
+    path: "/exercise-04",
+    name: "Exercise04",
+    component: () => import("../views/Exercise04.vue"),
+  },
 ];
 
 const router = new VueRouter({
