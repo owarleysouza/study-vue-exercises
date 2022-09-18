@@ -13,6 +13,18 @@
       <li>
         <router-link to="/exercise-04">Exercício 04</router-link>
       </li>
+      <li>
+        <router-link to="/exercise-05">Exercício 05</router-link>
+      </li>
+      <li>
+        <router-link to="/exercise-06">Exercício 06</router-link>
+      </li>
+      <li>
+        <router-link to="/exercise-07">Exercício 07</router-link>
+      </li>
+      <li>
+        <router-link to="/exercise-08">Exercício 08</router-link>
+      </li>
     </ul>
   </div>
 </template>
