@@ -28,6 +28,9 @@
       <li>
         <router-link to="/exercise-09">Exercício 09</router-link>
       </li>
+      <li>
+        <router-link to="/exercise-10">Exercício 10</router-link>
+      </li>
     </ul>
   </div>
 </template>
