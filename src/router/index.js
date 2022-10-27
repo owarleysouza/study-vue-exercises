@@ -70,6 +70,11 @@ const routes = [
     name: "Exercise12",
     component: () => import("../views/Exercise12.vue"),
   },
+  {
+    path: "/exercise-13",
+    name: "Exercise13",
+    component: () => import("../views/Exercise13.vue"),
+  },
 ];
 
 const router = new VueRouter({
